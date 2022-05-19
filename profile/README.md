@@ -2,6 +2,8 @@
 
 🙋‍♀️🙋‍♀️
 
+【QQ群64104075 / WeChat whaosoft】 1. 研究物联网 arduino esp8266 stm 等 2. 视觉相关-瑕疵检测-和测量设备等 3. 数字孪生
+github https://github.com/whaosoft
 <!--
 
 **Here are some ideas to get you started:**
