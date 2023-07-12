@@ -6,7 +6,7 @@
 1. 物联网IOT arduino esp8266 stm 等
 2. 视觉相关-瑕疵检测-和测量设备等
 3. 数字孪生
-4. 车联网IOV-C-V2X  
+4. 车联网IOV-C-V2X
 github https://github.com/whaosoft
 <!--
 
