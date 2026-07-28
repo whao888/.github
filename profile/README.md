@@ -8,6 +8,8 @@
 3. 数字孪生
 4. 车联网IOV V2X
 
+网站 https://143ai.cn 
+
 github https://github.com/whaosoft
 
 店铺地址 https://whaosoft.taobao.com/
